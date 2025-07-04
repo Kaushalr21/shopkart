@@ -1,0 +1,8 @@
+1. python --version
+2. pip install pipenv
+3. pipenv shell
+4. pip install django
+5. django-admin
+6. django-admin startproject my_project .
+7. command palette 
+8. python manage.py runserver
