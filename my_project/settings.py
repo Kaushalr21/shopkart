@@ -21,7 +21,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = False
 
 # Update this with your Render app URL
-ALLOWED_HOSTS = ['shopkart-jqa8.onrender.com/']
+ALLOWED_HOSTS = ['shopkart-jqa8.onrender.com']
 
 # Database configuration (from environment variables)
 DATABASES = {
